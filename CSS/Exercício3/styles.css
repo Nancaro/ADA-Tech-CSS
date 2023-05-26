@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.lista1 {
+    display: inline;
+}
+.lista2 {
+    border: 2px solid black;
+}
+.lista3 {
+    list-style-type: none;
+}

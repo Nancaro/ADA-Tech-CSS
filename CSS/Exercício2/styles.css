@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.renda{
+    background-color: #0ff;
+}
+
+.despesas {
+    background-color: #f0f
+}
+
+.lucro {
+    background-color: #f00
+}
